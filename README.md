@@ -55,7 +55,7 @@
 
 ## 📫 联系方式
 - 📧 邮箱：3105755134@qq.com  
-- 🌐 GitHub：[jacffg](https://github.com/MegumiN152)  
+- 🌐 GitHub：[MegumiN152](https://github.com/MegumiN152)  
 
 ---
 
